@@ -100,7 +100,7 @@ jobs:
 
     environment:
       name: testpypi
-      url: https://test.pypi.org/p/<package-name>
+      url: https://test.pypi.org/p/example-package-daniel14gonc
 
     permissions:
       id-token: write  # IMPORTANT: mandatory for trusted publishing
